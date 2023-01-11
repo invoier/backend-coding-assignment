@@ -31,7 +31,7 @@ exposure was.
   because it sometimes corrupts lines. When it does it always tries again
   though.
 - We only care about invoices created in 2022.
-- The correct exposure for February should be `3,768,564.70`.
+- The correct exposure for February should be at least `3,768,500`.
 
 ## Bonus Question
 
